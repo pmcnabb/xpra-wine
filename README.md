@@ -3,8 +3,8 @@ Container of Xpra+wine, useful for demonstration purposes. Packages are installe
 
 ## Versions
 * base image: ubuntu:22.04
-* xpra: 4.3.4-r0-1
-* wine: wine-staging 7.12~jammy-1 (i386 and amd64)
+* xpra: 6.1-r35816-1
+* wine: wine-staging 9.10~jammy-1 (i386 and amd64)
 
 ## Quickstart
 Run the container with podman or docker:
